@@ -1,28 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application is a simple shopping based application.
 
-Things you may want to cover:
+I have made this as per the guidelines of the book "Agile Development with Rails4" by Sam Ruby, Dave Thomas and David Heinemeier Hansson.
 
-* Ruby version
+The application should allow the user to select some products and add it to his unique cart.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+When the user's shopping his done, he/she can proceed to checkout and a receipt will be generated of his subsequent transaction.
